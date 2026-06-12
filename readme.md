@@ -1,6 +1,6 @@
 # Academic Aid – FOT
 
-
+🔗 **Live site:** [academicaid.in](https://academicaid.in/)
 
 A community-driven study platform built for students of the Faculty of Technology (FOT).
 
